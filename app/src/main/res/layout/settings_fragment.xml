@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.setting.SettingsFragment">
+
+    <TextView
+        android:id="@+id/tv_darkmode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/on_dark_mode"
+        app:layout_constraintBottom_toTopOf="@id/iv_darkmode"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:fontFamily="@font/poppins"
+        android:textColor="?attr/text_color"
+        android:gravity="center"
+        android:layout_marginBottom="15dp"/>
+
+    <ImageView
+        android:id="@+id/iv_darkmode"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/ic_sun"
+        android:paddingHorizontal="3dp"
+        android:paddingVertical="3dp"
+        android:background="@drawable/shape_retangle_grey"
+        android:contentDescription="@string/category"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

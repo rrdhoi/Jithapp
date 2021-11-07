@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Jithapp</string>
+    <string name="repository">repository</string>
+    <string name="search_user">Search User</string>
+    <string name="hi_ridhoi">Hi Ridhoi</string>
+    <string name="user_github">User Github</string>
+    <string name="follow">Follow</string>
+    <string name="following">Following</string>
+    <string name="image_share">Image Share</string>
+    <string name="followers">Followers</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="setting">Setting</string>
+    <string name="user_not_found">Upss.. User Tidak Ditemukan</string>
+    <string name="category">Category</string>
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+    <string name="muhammad">Muhammad</string>
+    <string name="company">Company</string>
+    <string name="location">location</string>
+    <string name="lokasi">lokasi</string>
+    <string name="followed">Followed</string>
+
+    <string name="cari_user">Cari user favorit kamu yuk..</string>
+    <string name="not_found_following">Following kosong nihh..</string>
+    <string name="not_found_followers">Followers kosong nih..</string>
+    <string name="not_found_favorite">Favorite kosong nih..</string>
+
+    <string name="menu_favorite">Favorite</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="on_dark_mode">Tekan ikon di bawah ini\nuntuk <b>mode gelap</b></string>
+    <string name="on_light_mode">Tekan ikon di bawah ini\nuntuk <b>mode terang</b></string>
+
+</resources>

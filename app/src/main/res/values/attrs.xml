@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ds">
+        <attr name="background_color" format="color"/>
+        <attr name="background_pure_color" format="color"/>
+        <attr name="color_nav" format="color"/>
+        <attr name="color_black_white" format="color"/>
+        <attr name="color_rectangle_share" format="color"/>
+        <attr name="text_color" format="color"/>
+        <attr name="text_color_purple" format="color"/>
+        <attr name="button_color" format="color"/>
+        <attr name="selector_background_color" format="color"/>
+        <attr name="shadow_color" format="color"/>
+    </declare-styleable>
+</resources>
