@@ -1,3 +1,3 @@
 # Jithapp
-Submission 3 BFAA (Belajar Fundamental Aplikasi Android)
-Review Rating 🌟🌟🌟🌟🌟
+Submission 3 BFAA (Belajar Fundamental Aplikasi Android)\
+**Review Rating** 🌟🌟🌟🌟🌟
